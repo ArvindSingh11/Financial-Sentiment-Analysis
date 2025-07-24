@@ -1,8 +1,6 @@
 # Financial-Sentiment-Analysis
 # Financial Sentiment Analysis is a specialized field of Natural Language Processing (NLP) that focuses on extracting insights and sentiments from financial texts. It helps investors and financial institutions make informed decisions by analyzing how news, social media, and other textual data influence market sentiment and asset prices. This analysis is vital for understanding market trends, risks, and opportunities in real-time.
-Here’s a **step-by-step breakdown** of your sentiment analysis workflow using Kaggle data, formatted clearly and logically:
 
----
 
 ### **Step-by-Step Sentiment Analysis Pipeline**
 
